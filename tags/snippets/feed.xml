@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Giovanni Soares</title>
+      <link>https://giosoares1010.github.io//blog</link>
+      <description>Giovanni Soares&#39;s personal blog</description>
+      <language>en-us</language>
+      <managingEditor>gioarmstr11@gmail.com (Giovanni Soares)</managingEditor>
+      <webMaster>gioarmstr11@gmail.com (Giovanni Soares)</webMaster>
+      <lastBuildDate>Wed, 20 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://giosoares1010.github.io//tags/snippets/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://giosoares1010.github.io//blog/javascript-promises-async-await</guid>
+    <title>JavaScript Promise and Async/Await</title>
+    <link>https://giosoares1010.github.io//blog/javascript-promises-async-await</link>
+    <description>A short visual guide on what a Promise is in JavaScript, and how to avoid call back hell.</description>
+    <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+    <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
+    <category>JavaScript</category><category>ReactJs</category><category>Snippets</category><category>Promises</category><category>Async/Await</category>
+  </item>
+
+  <item>
+    <guid>https://giosoares1010.github.io//blog/typing-usestate</guid>
+    <title>How to type the setState function from the useState hook</title>
+    <link>https://giosoares1010.github.io//blog/typing-usestate</link>
+    <description>A deep dive into how to properly type a setState function from the useState hook.</description>
+    <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+    <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
+    <category>ReactJS</category><category>TypeScript</category><category>Snippets</category>
+  </item>
+
+    </channel>
+  </rss>

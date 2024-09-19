@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Giovanni Soares</title>
+      <link>https://giosoares1010.github.io//blog</link>
+      <description>Giovanni Soares&#39;s personal blog</description>
+      <language>en-us</language>
+      <managingEditor>gioarmstr11@gmail.com (Giovanni Soares)</managingEditor>
+      <webMaster>gioarmstr11@gmail.com (Giovanni Soares)</webMaster>
+      <lastBuildDate>Tue, 30 Aug 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://giosoares1010.github.io//tags/web-sockets/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://giosoares1010.github.io//blog/web-sockets</guid>
+    <title>Web Sockets</title>
+    <link>https://giosoares1010.github.io//blog/web-sockets</link>
+    <description>Web sockets are a way to communicate between a client and a server. They are used in real-time applications like chat apps, multiplayer games, and more.</description>
+    <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
+    <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
+    <category>Web Sockets</category>
+  </item>
+
+    </channel>
+  </rss>

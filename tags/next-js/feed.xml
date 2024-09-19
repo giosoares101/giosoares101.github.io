@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gio Soares Duy</title>
+      <link>https://giosoares1010.github.io//blog</link>
+      <description>Gio Soares Duy&#39;s personal blog</description>
+      <language>en-us</language>
+      <managingEditor>Gio Soaresduy638495843@gmail.com (Gio Soares Duy)</managingEditor>
+      <webMaster>Gio Soaresduy638495843@gmail.com (Gio Soares Duy)</webMaster>
+      <lastBuildDate>Wed, 11 Nov 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://giosoares1010.github.io//tags/next-js/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://giosoares1010.github.io//blog/guide-to-using-images-in-nextjs</guid>
+    <title>Guid to using images in Next.js</title>
+    <link>https://giosoares1010.github.io//blog/guide-to-using-images-in-nextjs</link>
+    <description>In this article we introduce adding images in the tailwind starter blog and the benefits and limitations of the next/image component.</description>
+    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <author>Gio Soaresduy638495843@gmail.com (Gio Soares Duy)</author>
+    <category>next js</category><category>guide</category>
+  </item>
+
+    </channel>
+  </rss>

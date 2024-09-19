@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Giovanni Soares</title>
+      <link>https://giosoares1010.github.io//blog</link>
+      <description>Giovanni Soares&#39;s personal blog</description>
+      <language>en-us</language>
+      <managingEditor>gioarmstr11@gmail.com (Giovanni Soares)</managingEditor>
+      <webMaster>gioarmstr11@gmail.com (Giovanni Soares)</webMaster>
+      <lastBuildDate>Tue, 07 Sep 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://giosoares1010.github.io//tags/python/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://giosoares1010.github.io//blog/building-a-python-web-scraper-in-flask</guid>
+    <title>Building a Python Web Scraper in Flask</title>
+    <link>https://giosoares1010.github.io//blog/building-a-python-web-scraper-in-flask</link>
+    <description>A hands-on tutorial for building a Python web scraper with the Flask framework and Beautiful Soup.</description>
+    <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
+    <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
+    <category>Python</category><category>Flask</category><category>Bs4</category><category>Web</category>
+  </item>
+
+    </channel>
+  </rss>
