@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Giovanni Soares</title>
-      <link>https://giosoares1010.github.io//blog</link>
+      <link>https://giosoares101.github.io//blog</link>
       <description>Giovanni Soares&#39;s personal blog</description>
       <language>en-us</language>
       <managingEditor>gioarmstr11@gmail.com (Giovanni Soares)</managingEditor>
       <webMaster>gioarmstr11@gmail.com (Giovanni Soares)</webMaster>
       <lastBuildDate>Thu, 27 Oct 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://giosoares1010.github.io//tags/database/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://giosoares101.github.io//tags/database/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://giosoares1010.github.io//blog/firebase</guid>
+    <guid>https://giosoares101.github.io//blog/firebase</guid>
     <title>Firebase - Authentication and Database</title>
-    <link>https://giosoares1010.github.io//blog/firebase</link>
+    <link>https://giosoares101.github.io//blog/firebase</link>
     <description>Basics of using Firebase for authentication and database storage. Covers how to set up a project, create a database, and authenticate users in a React app.</description>
     <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>

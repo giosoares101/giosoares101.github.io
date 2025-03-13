@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Giovanni Soares</title>
-      <link>https://giosoares1010.github.io//blog</link>
+      <link>https://giosoares101.github.io//blog</link>
       <description>Giovanni Soares&#39;s personal blog</description>
       <language>en-us</language>
       <managingEditor>gioarmstr11@gmail.com (Giovanni Soares)</managingEditor>
       <webMaster>gioarmstr11@gmail.com (Giovanni Soares)</webMaster>
       <lastBuildDate>Sun, 27 Nov 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://giosoares1010.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://giosoares101.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://giosoares1010.github.io//blog/useRef-hooks</guid>
+    <guid>https://giosoares101.github.io//blog/useRef-hooks</guid>
     <title>React Hooks: useRef &amp; forwardRef</title>
-    <link>https://giosoares1010.github.io//blog/useRef-hooks</link>
+    <link>https://giosoares101.github.io//blog/useRef-hooks</link>
     <description>I never truly understood when I should use Reacts useRef hook. It felt similar to useState, but I never really understood the difference. I also never understood when I should use forwardRef. I will explain both of these hooks and when you should use them.</description>
     <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/converting-to-typescript</guid>
+    <guid>https://giosoares101.github.io//blog/converting-to-typescript</guid>
     <title>Converting to TypeScript from React JS</title>
-    <link>https://giosoares1010.github.io//blog/converting-to-typescript</link>
+    <link>https://giosoares101.github.io//blog/converting-to-typescript</link>
     <description>I recently started to convert my React JS project to TypeScript. I wanted to share my journey in converting my project and the steps I took to get started. Here I cover a few key concepts when you convert a React JS project to TypeScript.</description>
     <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/redux-toolkit</guid>
+    <guid>https://giosoares101.github.io//blog/redux-toolkit</guid>
     <title>Redux Toolkit</title>
-    <link>https://giosoares1010.github.io//blog/redux-toolkit</link>
+    <link>https://giosoares101.github.io//blog/redux-toolkit</link>
     <description>Redux Toolkit is a library that helps you write Redux logic more easily. It requires much less boilerplate code than the classic Redux library. In this post, I will show you how to use Redux Toolkit to write Redux logic.</description>
     <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/firebase</guid>
+    <guid>https://giosoares101.github.io//blog/firebase</guid>
     <title>Firebase - Authentication and Database</title>
-    <link>https://giosoares1010.github.io//blog/firebase</link>
+    <link>https://giosoares101.github.io//blog/firebase</link>
     <description>Basics of using Firebase for authentication and database storage. Covers how to set up a project, create a database, and authenticate users in a React app.</description>
     <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/cdn-and-server-side-rendering</guid>
+    <guid>https://giosoares101.github.io//blog/cdn-and-server-side-rendering</guid>
     <title>CDN Caching, Static Site Generation and Server Side Rendering</title>
-    <link>https://giosoares1010.github.io//blog/cdn-and-server-side-rendering</link>
+    <link>https://giosoares101.github.io//blog/cdn-and-server-side-rendering</link>
     <description>Here we are analyzing the different types of pre rendering a website and its combination with a CDN.</description>
     <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/typescript</guid>
+    <guid>https://giosoares101.github.io//blog/typescript</guid>
     <title>Intro to TypeScript</title>
-    <link>https://giosoares1010.github.io//blog/typescript</link>
+    <link>https://giosoares101.github.io//blog/typescript</link>
     <description>A quick introduction to TypeScript.</description>
     <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -71,9 +71,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/web-sockets</guid>
+    <guid>https://giosoares101.github.io//blog/web-sockets</guid>
     <title>Web Sockets</title>
-    <link>https://giosoares1010.github.io//blog/web-sockets</link>
+    <link>https://giosoares101.github.io//blog/web-sockets</link>
     <description>Web sockets are a way to communicate between a client and a server. They are used in real-time applications like chat apps, multiplayer games, and more.</description>
     <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -81,9 +81,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/javascript-promises-async-await</guid>
+    <guid>https://giosoares101.github.io//blog/javascript-promises-async-await</guid>
     <title>JavaScript Promise and Async/Await</title>
-    <link>https://giosoares1010.github.io//blog/javascript-promises-async-await</link>
+    <link>https://giosoares101.github.io//blog/javascript-promises-async-await</link>
     <description>A short visual guide on what a Promise is in JavaScript, and how to avoid call back hell.</description>
     <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -91,9 +91,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/typing-usestate</guid>
+    <guid>https://giosoares101.github.io//blog/typing-usestate</guid>
     <title>How to type the setState function from the useState hook</title>
-    <link>https://giosoares1010.github.io//blog/typing-usestate</link>
+    <link>https://giosoares101.github.io//blog/typing-usestate</link>
     <description>A deep dive into how to properly type a setState function from the useState hook.</description>
     <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
@@ -101,9 +101,9 @@
   </item>
 
   <item>
-    <guid>https://giosoares1010.github.io//blog/building-a-python-web-scraper-in-flask</guid>
+    <guid>https://giosoares101.github.io//blog/building-a-python-web-scraper-in-flask</guid>
     <title>Building a Python Web Scraper in Flask</title>
-    <link>https://giosoares1010.github.io//blog/building-a-python-web-scraper-in-flask</link>
+    <link>https://giosoares101.github.io//blog/building-a-python-web-scraper-in-flask</link>
     <description>A hands-on tutorial for building a Python web scraper with the Flask framework and Beautiful Soup.</description>
     <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
     <author>gioarmstr11@gmail.com (Giovanni Soares)</author>
