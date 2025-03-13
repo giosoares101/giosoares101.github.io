@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"JavaScript Promise and Async/Await","date":"2022-04-20T00:00:00.000Z","tags":["JavaScript","ReactJs","Snippets","Promises","Async/Await"],"draft":false,"summary":"A short visual guide on what a Promise is in JavaScript, and how to avoid call back hell.","slug":"javascript-promises-async-await"}],"tag":"asyncawait"},"__N_SSG":true}
